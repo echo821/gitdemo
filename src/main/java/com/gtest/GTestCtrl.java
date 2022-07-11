@@ -8,5 +8,6 @@ public class GTestCtrl {
         System.out.println("hotfix");
         System.out.println("master confict");
         System.out.println("hotfix confict");
+        System.out.println("push test");
     }
 }
