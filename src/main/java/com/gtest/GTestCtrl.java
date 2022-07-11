@@ -5,5 +5,6 @@ public class GTestCtrl {
         System.out.println("hello");
         System.out.println(":");
         System.out.println("？？？");
+        System.out.println("hotfix");
     }
 }
