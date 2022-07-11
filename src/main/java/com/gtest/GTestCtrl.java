@@ -6,5 +6,6 @@ public class GTestCtrl {
         System.out.println(":");
         System.out.println("？？？");
         System.out.println("hotfix");
+        System.out.println("hotfix confict");
     }
 }
